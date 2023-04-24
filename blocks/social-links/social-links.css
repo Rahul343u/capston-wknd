@@ -1,0 +1,18 @@
+.social-links .button-container{
+    margin: 0;
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    background-color: black;
+    overflow: hidden;
+}
+
+.social-links .button-container .button{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-weight: normal;
+    border-radius:0;
+    height: 24px;
+    width: 24px;
+}
